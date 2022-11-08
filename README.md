@@ -1,5 +1,7 @@
 # Pinvent #
 Inventory system to control and manage proucts in the warehouse in real timeand integrated to make it easier to develop your business.
+
+live link- [Pinvent](https://pinvent-akash.herokuapp.com/)
  
  ![image](https://user-images.githubusercontent.com/98347596/200161858-aed5124d-ea00-47d2-a0dc-b942765716be.png)
 
